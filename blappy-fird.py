@@ -88,6 +88,14 @@ class Bird:
     def get_mask(self):
         return pygame.mask.from_surface(self.img)
 
+
+
+class Pipe:
+    GAP= 200
+    #spacing between pipes
+    VEL= 5
+    #the velocity with which pipes will move towards the bird
+
 def draw_window(win,bird):
     win.blit(BG_IMG,(0,0))
     bird.draw(win)
