@@ -13,4 +13,7 @@
 UNDER CONSTRUCTION
 
 NEAT Documentation:https://neat-python.readthedocs.io/en/latest/config_file.html
+
+
+
 NEAT Article:http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
