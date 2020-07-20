@@ -17,3 +17,12 @@ NEAT Documentation:https://neat-python.readthedocs.io/en/latest/config_file.html
 
 
 NEAT Article:http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
+
+
+
+# Run in Gitpod
+
+You can also run the code in Gitpod, a free online dev environment for GitHub:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/iamvpa/AI-Blappy-Fird/blob/master/blappy-fird.py)
+
