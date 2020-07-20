@@ -11,3 +11,6 @@
 ![Screenshot (80)](https://user-images.githubusercontent.com/48381326/87849137-cecf5300-c903-11ea-9f2d-73bf03b18b4b.png)
 
 UNDER CONSTRUCTION
+
+NEAT Documentation:https://neat-python.readthedocs.io/en/latest/config_file.html
+NEAT Article:http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
